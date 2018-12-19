@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project &apos;spring-boot-elastcsearch&apos; to &apos;spring-boot-elasticsearch&apos;&#x0D;&#x0A;- Original element: &apos;spring-boot-elastcsearch&apos;&#x0D;&#x0A;- Renamed element: &apos;spring-boot-elastcsearch&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;spring-boot-elastcsearch&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=spring-boot-elastcsearch" name="spring-boot-elasticsearch" references="true" stamp="1532778485356" version="1.0"/>
-</session>
