@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;spring-boot-mq&apos;" deleteContents="true" description="Delete resource &apos;spring-boot-mq&apos;" element1="/spring-boot-mq" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1533955931306"/>
+</session>

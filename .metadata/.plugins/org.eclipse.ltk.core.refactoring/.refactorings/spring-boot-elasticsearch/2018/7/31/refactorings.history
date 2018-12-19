@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;learning.java.spring.springboot.springbootelastcsearch.domin.Artical.java&apos; to &apos;Article.java&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-elasticsearch&apos;&#x0D;&#x0A;- Original element: &apos;learning.java.spring.springboot.springbootelastcsearch.domin.Artical.java&apos;&#x0D;&#x0A;- Renamed element: &apos;learning.java.spring.springboot.springbootelastcsearch.domin.Article.java&apos;" description="Rename compilation unit &apos;Artical.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;learning.java.spring.springboot.springbootelastcsearch.domin{Artical.java" name="Article.java" references="false" stamp="1532961255070" version="1.0"/>
+</session>

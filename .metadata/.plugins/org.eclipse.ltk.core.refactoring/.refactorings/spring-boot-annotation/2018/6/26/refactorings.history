@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SampleController.java&apos; to &apos;spring-boot-starter/src/main/java/learning.java.spring.springboot.controller&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-annotation&apos;&#x0D;&#x0A;- Destination element: &apos;spring-boot-starter/src/main/java/learning.java.spring.springboot.controller&apos;&#x0D;&#x0A;- Original element: &apos;learning.java.spring.springboot.controller.SampleController.java&apos;" description="Copy compilation unit" destination="=spring-boot-starter/src\/main\/java&lt;learning.java.spring.springboot.controller" element1="/src\/main\/java&lt;learning.java.spring.springboot.controller{SampleController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1530341267937" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,7 @@
+1533960176390	Rename type 'ActiveMqProducerServiceImpl'
+1533960184494	Rename type 'ActiveMqConsumer'
+1533961291178	Rename type 'ProducerServiceImpl'
+1533961304129	Delete element
+1533961308646	Move compilation unit
+1533961311333	Delete element
+1533963533444	Rename type 'Consumer'
